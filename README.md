@@ -7,3 +7,5 @@ Para rodar este projeto é necessario digitar:
 ```
 node app.js
 ```
+
+:blush:
