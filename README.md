@@ -2,8 +2,8 @@
 
 >Status do projeto: em andamento
 
-Para rodar este projeto é necessario:
+Para rodar este projeto é necessario digitar:
 
 ```
-Qualquer leitor de código
+node app.js
 ```
